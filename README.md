@@ -9,5 +9,3 @@ Current Methods:
 2, Logistic Regression
 
 3, Neural Network
-
-4, Support Vector Machine
